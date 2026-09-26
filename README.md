@@ -29,5 +29,5 @@ The voltage regulator 7805 is not the best choice. Use any 5V switch type small 
 
 
 ## Credits & Acknowledgments
-* This project was built following the implementation/tutorial by remrc.
+* This project was built following the implementation/tutorial by remrc. (https://github.com/remrc/Self-Balancing-Bike)
 * Primary modifications made: BLDC motor model and rating, weights on the bike, the motor controller. 
